@@ -8,4 +8,4 @@ Kelas   : PBP c
 
 Hobi    : Tidur
 
-Jurusan : Ilmu Sistem Informasi Komputer
+Jurusan : Sistem Informasi
